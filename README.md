@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there! 👋 I'm Sebastian Robayo
 
-<!--
-**sebasRT/sebasRT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack developer with a specialization in front-end development. My principal stack includes Node.js, TypeScript, JavaScript, Next.js, and MongoDB. I love building sleek and efficient web applications that provide great user experiences.
 
-Here are some ideas to get you started:
+## 🌱 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently focusing on:
+
+- Improving my skills in web with AI integrations.
+- Exploring prompt engineering.
+
+## 📫 Get in Touch
+
+- LinkedIn: linkedin.com/in/sebastian-robayo-074b30249
+- Email: rtsebas@gmail.com
+
+## 💬 Let's Connect
+
+Feel free to reach out to discuss collaboration opportunities, exchange ideas, or just to say hi!
