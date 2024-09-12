@@ -13,7 +13,7 @@ I'm currently focusing on:
 
 - LinkedIn: linkedin.com/in/sebastian-robayo-074b30249
 - Email: rtsebas@gmail.com
-- Personal page: [https://personal-portfolio-sigma-three-30.vercel.app/](https://sebastian-robayo.vercel.app/)
+- Personal page: https://sebastian-robayo.vercel.app/
 ## 💬 Let's Connect
 
 Feel free to reach out to discuss collaboration opportunities, exchange ideas, or just to say hi!
